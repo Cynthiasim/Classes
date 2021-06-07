@@ -1,7 +1,7 @@
 //  Cynthia Simon
 //  csimon2@leomail.tamuc.edu
 //  Assignment #2
-//  Program to create Person and Ecmployee Class
+//  Program to create Person and Employee Class
 #include <iostream>
 #include <string>
 
